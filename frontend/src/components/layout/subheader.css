@@ -1,0 +1,23 @@
+.subheader-section {
+  background: #fdfaf6!important;
+  padding: 32px 0;
+}
+
+.subheader-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 18px;
+}
+
+@media (max-width: 992px) {
+  .subheader-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 576px) {
+  .subheader-grid {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+}
+

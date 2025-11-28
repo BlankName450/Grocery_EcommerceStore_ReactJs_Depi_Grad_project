@@ -1,0 +1,30 @@
+.subheader-card {
+  padding: 16px 20px;
+  border-radius: 16px;
+  background: #e0dfdf;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  min-height: 100px;
+}
+
+.subheader-card__icon {
+  font-size: 28px;
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #A6AE86;
+}
+
+.subheader-card__title {
+  font-size: 15px;
+  font-weight: 600;
+  color: #1c1c1c;
+}
+
+.subheader-card__description {
+  font-size: 13px;
+  color: #6d6d6d;
+}
+

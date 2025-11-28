@@ -1,0 +1,1934 @@
+[
+    {
+        "id": "whole-chicken-800g",
+        "title": "Whole Chicken",
+        "price": "3.55",
+        "category": "Fish & Meat",
+        "subcategory": "Poultry",
+        "short_description": "A whole, fresh chicken ready for roasting or slow cooking. Tender meat with a natural flavor.",
+        "weight": "800g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/WholeChicken.jpg?v=1586955019"
+        ]
+    },
+    {
+        "id": "beef-t-bone-850g",
+        "title": "Beef T Bone",
+        "price": "8.95",
+        "category": "Fish & Meat",
+        "subcategory": "Red Meat",
+        "short_description": "A classic T-bone steak with rich marbling, ideal for grilling or pan-searing.",
+        "weight": "850g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/vealMeat.jpg?v=1586954970"
+        ]
+    },
+    {
+        "id": "trout-600g",
+        "title": "Atlantic Salmon Fillets Farm-Raised",
+        "price": "6.50",
+        "category": "Fish & Meat",
+        "subcategory": "Seafood",
+        "short_description": "Farm-raised Atlantic salmon fillets with a firm texture and mild, buttery flavor.",
+        "weight": "200g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/SalmonFilletsFarm-Raised.jpg?v=1587983169"
+        ]
+    },
+    {
+        "id": "swaggertys-farm-all-natural-mild-premium-sausage-patties-350g",
+        "title": "Swaggerty's Farm All Natural Mild Premium Sausage Patties",
+        "price": "4.00",
+        "category": "Fish & Meat",
+        "subcategory": "Sausage",
+        "short_description": "Mild pork sausage patties made with natural ingredients for a juicy breakfast or sandwich.",
+        "weight": "350g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Swaggerty_sFarmAllNaturalMildPremiumSausagePatties.jpg?v=1586954653"
+        ]
+    },
+    {
+        "id": "swaggertys-farm-all-natural-mild-premium-sausage-350g",
+        "title": "Swaggerty's Farm All Natural Mild Premium Sausage Links",
+        "price": "4.95",
+        "category": "Fish & Meat",
+        "subcategory": "Sausage",
+        "short_description": "All-natural mild sausage links, great for grilling or breakfast plates.",
+        "weight": "350g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Swaggerty_sFarmAllNaturalMildPremiumSausageLinks.jpg?v=1586954600"
+        ]
+    },
+    {
+        "id": "sole-500g",
+        "title": "Catfish Filet",
+        "price": "7.25",
+        "category": "Fish & Meat",
+        "subcategory": "Seafood",
+        "short_description": "Fresh catfish fillet with delicate flavor, suitable for pan-frying or baking.",
+        "weight": "300g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/CatfishFilet.jpg?v=1587983517"
+        ]
+    },
+    {
+        "id": "sliced-top-round-london-broil-500g",
+        "title": "Sliced Top Round London Broil",
+        "price": "9.99",
+        "category": "Fish & Meat",
+        "subcategory": "Red Meat",
+        "short_description": "Lean sliced top round, great for sandwiches or quick sautés with robust beef flavor.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/SlicedTopRoundLondonBroil_Package.jpg?v=1586953981"
+        ]
+    },
+    {
+        "id": "sliced-pepperoni-100g",
+        "title": "Sliced Pepperoni",
+        "price": "2.10",
+        "category": "Fish & Meat",
+        "subcategory": "Cold Cuts",
+        "short_description": "Classic sliced pepperoni with savory, slightly spicy notes—perfect for pizzas and snacks.",
+        "weight": "100g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/SlicedPepperoni_Package.jpg?v=1586953795"
+        ]
+    },
+    {
+        "id": "sliced-homestyle-turkey-breast-300g",
+        "title": "Sliced Homestyle Turkey Breast",
+        "price": "1.95",
+        "category": "Fish & Meat",
+        "subcategory": "Cold Cuts",
+        "short_description": "Tender, homestyle sliced turkey breast for sandwiches and salads.",
+        "weight": "300g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/SlicedHomestyleTurkeyBreast_Package.jpg?v=1586953717"
+        ]
+    },
+    {
+        "id": "salmon-400g",
+        "title": "Northern Halibut Portions",
+        "price": "6.99",
+        "category": "Fish & Meat",
+        "subcategory": "Seafood",
+        "short_description": "Firm halibut portions with a mild, sweet flavor—ideal for healthy weeknight meals.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/NorthernHalibutPortions.jpg?v=1587983464"
+        ]
+    },
+    {
+        "id": "halibout-600g",
+        "title": "Swordfish, Previously Frozen",
+        "price": "8.99",
+        "category": "Fish & Meat",
+        "subcategory": "Seafood",
+        "short_description": "Previously frozen swordfish with meaty texture, great for grilling or broiling.",
+        "weight": "600g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/SwordfishPreviouslyFrozen.jpg?v=1587983406"
+        ]
+    },
+    {
+        "id": "ground-chicken-300g",
+        "title": "Ground Chicken",
+        "price": "3.25",
+        "category": "Fish & Meat",
+        "subcategory": "Ground Meat",
+        "short_description": "Lean ground chicken that cooks quickly and absorbs seasonings well for versatile dishes.",
+        "weight": "300g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/GroundChicken.jpg?v=1586953588"
+        ]
+    },
+    {
+        "id": "pure-bacon-300g",
+        "title": "Pure Bacon",
+        "price": "1.95",
+        "category": "Fish & Meat",
+        "subcategory": "Pork",
+        "short_description": "Cured bacon with smoky flavor, ideal for breakfast or adding savory notes to recipes.",
+        "weight": "300g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/FarmlandBacon.jpg?v=1586953544"
+        ]
+    },
+    {
+        "id": "chicken-wings-300g",
+        "title": "Chicken Wings",
+        "price": "2.99",
+        "category": "Fish & Meat",
+        "subcategory": "Poultry",
+        "short_description": "Juicy chicken wings ready for baking or frying—perfect for sharing and appetizers.",
+        "weight": "300g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/ChickenWings.jpg?v=1586953456"
+        ]
+    },
+    {
+        "id": "boneless-chicken-500g",
+        "title": "Boneless Chicken",
+        "price": "3.25",
+        "category": "Fish & Meat",
+        "subcategory": "Poultry",
+        "short_description": "Boneless chicken tenders with tender texture, great for quick sautés or oven-baked dishes.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/ChickenTenders.jpg?v=1586953420"
+        ]
+    },
+    {
+        "id": "chicken-breast-500g",
+        "title": "Chicken Breast",
+        "price": "3.99",
+        "category": "Fish & Meat",
+        "subcategory": "Poultry",
+        "short_description": "Fresh chicken breast with lean meat, versatile for grilling, baking, or slicing for salads.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/ChickenBreast.jpg?v=1586953354"
+        ]
+    },
+    {
+        "id": "catfish-300g",
+        "title": "Wild Cod Filet Previously Frozen",
+        "price": "8.95",
+        "category": "Fish & Meat",
+        "subcategory": "Seafood",
+        "short_description": "Wild cod fillet previously frozen, offering flaky texture and mild flavor for many preparations.",
+        "weight": "300g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/WildCodFiletPreviouslyFrozen.jpg?v=1587983324"
+        ]
+    },
+    {
+        "id": "c-wirthy-co-blackened-salmon-fillets-300g",
+        "title": "C. Wirthy & Co. Blackened Salmon Fillets",
+        "price": "5.95",
+        "category": "Fish & Meat",
+        "subcategory": "Seafood",
+        "short_description": "Blackened-seasoned salmon fillets with bold flavor—easy to cook and full of character.",
+        "weight": "300g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/C.Wirthy_Co.BlackenedSalmonFillets.jpg?v=1586953097"
+        ]
+    },
+    {
+        "id": "beyond-beef-vacuum-packed-200g",
+        "title": "Beyond Beef, Vacuum Packed",
+        "price": "2.95",
+        "category": "Fish & Meat",
+        "subcategory": "Plant-Based",
+        "short_description": "Plant-based beef alternative, vacuum-packed for freshness and designed to substitute ground beef.",
+        "weight": "200g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/BeyondMeatPatty_Plant-BasedGround_BeyondBeef_VacuumPacked.jpg?v=1586953043"
+        ]
+    },
+    {
+        "id": "beef-rib-850g",
+        "title": "Beef Rib",
+        "price": "6.95",
+        "category": "Fish & Meat",
+        "subcategory": "Red Meat",
+        "short_description": "Hearty beef ribs with rich flavor, perfect for slow cooking or smoking.",
+        "weight": "850g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/beefribs.jpg?v=1586952812"
+        ]
+    },
+    {
+        "id": "zen-bakery-blueberry-oat-bran-muffin-100g",
+        "title": "Zen Bakery Blueberry-Oat Bran Muffin",
+        "price": "0.55",
+        "category": "Bakery & Pastry",
+        "subcategory": "Muffins",
+        "short_description": "A tender muffin with blueberries and oat bran for a wholesome treat.",
+        "weight": "100g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/ZenBakeryBlueberry-OatBranMuffin4Ct.jpg?v=1586951390"
+        ]
+    },
+    {
+        "id": "udis-gluten-free-sandwich-bread-500g",
+        "title": "Udi's Gluten-Free Sandwich Bread",
+        "price": "0.85",
+        "category": "Bakery & Pastry",
+        "subcategory": "Breads",
+        "short_description": "Soft, gluten-free sandwich bread that's ideal for daily use and sandwiches.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Udi_sGluten-FreeSandwichBreadWhite.jpg?v=1586951259"
+        ]
+    },
+    {
+        "id": "sprouts-seedsational-white-bread-400g",
+        "title": "Sprouts Seedsational White Bread.",
+        "price": "0.95",
+        "category": "Bakery & Pastry",
+        "subcategory": "Breads",
+        "short_description": "White bread with a seeded twist, great for toast or sandwiches.",
+        "weight": "400g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/SproutsSeedsationalBread.jpg?v=1586951215"
+        ]
+    },
+    {
+        "id": "sliced-french-bread-150g",
+        "title": "Sliced French Bread",
+        "price": "2.00",
+        "category": "Bakery & Pastry",
+        "subcategory": "Breads",
+        "short_description": "Classic sliced French bread with a crisp crust and soft interior.",
+        "weight": "150g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/SlicedFrenchBread.jpg?v=1586951163"
+        ]
+    },
+    {
+        "id": "oroweat-organic-smooth-wheat-bread-520g",
+        "title": "Oroweat Organic Smooth Wheat Bread",
+        "price": "1.35",
+        "category": "Bakery & Pastry",
+        "subcategory": "Breads",
+        "short_description": "Organic smooth wheat bread offering a soft texture and wholesome taste.",
+        "weight": "520g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/OroweatOrganicSmoothWheatBread.jpg?v=1586951113"
+        ]
+    },
+    {
+        "id": "oasis-healthgrains-brown-bread-430g",
+        "title": "Oasis Healthgrains Brown Bread",
+        "price": "1.40",
+        "category": "Bakery & Pastry",
+        "subcategory": "Breads",
+        "short_description": "Brown bread with hearty grains, a nutritious choice for everyday meals.",
+        "weight": "430g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/OasisHealthgrainsBread.jpg?v=1586951061"
+        ]
+    },
+    {
+        "id": "natures-own-whole-wheat-bread-480g",
+        "title": "Nature's Own Whole Wheat Bread",
+        "price": "1.20",
+        "category": "Bakery & Pastry",
+        "subcategory": "Breads",
+        "short_description": "Soft whole wheat bread with balanced flavor, perfect for sandwiches or toast.",
+        "weight": "480g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Nature_sOwn100_WholeWheatBread.jpg?v=1586951010"
+        ]
+    },
+    {
+        "id": "mini-danish-maple-pecan-pastry-100g",
+        "title": "Mini Danish Maple Pecan Pastry",
+        "price": "2.00",
+        "category": "Bakery & Pastry",
+        "subcategory": "Pastries",
+        "short_description": "Flaky Danish with maple and pecan for a sweet, indulgent bite.",
+        "weight": "100g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/MiniDanishMaplePecanPastry.jpg?v=1586950867"
+        ]
+    },
+    {
+        "id": "market-corner-white-family-bread-500g",
+        "title": "Market Corner White Family Bread",
+        "price": "0.90",
+        "category": "Bakery & Pastry",
+        "subcategory": "Breads",
+        "short_description": "Family-sized white bread loaf that's soft and versatile for everyday use.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/MarketCornerWhiteFamilyBread.jpg?v=1586950833"
+        ]
+    },
+    {
+        "id": "market-corner-classic-burger-buns-400g",
+        "title": "Market Corner Classic Burger Buns",
+        "price": "0.50",
+        "category": "Bakery & Pastry",
+        "subcategory": "Buns",
+        "short_description": "Soft burger buns that hold toppings well and toast nicely.",
+        "weight": "400g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/MarketCornerClassicBurgerBuns.jpg?v=1586950786"
+        ]
+    },
+    {
+        "id": "katz-heavenly-creme-cakes-vanilla-260g",
+        "title": "Katz Heavenly Creme Cakes Vanilla",
+        "price": "1.80",
+        "category": "Bakery & Pastry",
+        "subcategory": "Cakes",
+        "short_description": "Vanilla creme cakes that are moist and sweet—great for quick desserts or snacks.",
+        "weight": "260g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/KatzGlutenFreeHeavenlyCremeCakesVanilla.jpg?v=1586950731"
+        ]
+    },
+    {
+        "id": "katz-creme-cakes-260g",
+        "title": "Katz Creme Cakes",
+        "price": "1.95",
+        "category": "Bakery & Pastry",
+        "subcategory": "Cakes",
+        "short_description": "Classic creme cakes with a soft texture and sweet filling for a treat anytime.",
+        "weight": "260g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/KatzCremeCakes_Heavenly_Chocolate.jpg?v=1586950598"
+        ]
+    },
+    {
+        "id": "half-apple-pie-250g",
+        "title": "Half Apple Pie",
+        "price": "4.50",
+        "category": "Bakery & Pastry",
+        "subcategory": "Pies",
+        "short_description": "A half-sized apple pie with spiced filling and flaky crust—homestyle and comforting.",
+        "weight": "250g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/HalfApplePie.jpg?v=1586950534"
+        ]
+    },
+    {
+        "id": "fresh-baked-double-crust-peach-pie-100g",
+        "title": "Fresh Baked Double Crust Peach Pie",
+        "price": "2.20",
+        "category": "Bakery & Pastry",
+        "subcategory": "Pies",
+        "short_description": "Double-crust peach pie offering sweet, juicy filling and a golden crust.",
+        "weight": "100g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/FreshBakedDoubleCrustPeachPie.jpg?v=1586950486"
+        ]
+    },
+    {
+        "id": "fresh-baked-double-crust-berry-pie-50g",
+        "title": "Fresh Baked Double Crust Berry Pie",
+        "price": "1.50",
+        "category": "Bakery & Pastry",
+        "subcategory": "Pies",
+        "short_description": "Mini berry pie with a double crust and sweet-tart berry filling.",
+        "weight": "50g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/FreshBakedDoubleCrustBerryPie.jpg?v=1586950435"
+        ]
+    },
+    {
+        "id": "flax-4-life-muffins-10g",
+        "title": "Flax 4 Life Muffins",
+        "price": "0.45",
+        "category": "Bakery & Pastry",
+        "subcategory": "Muffins",
+        "short_description": "Small flax muffins that offer a wholesome, nutty bite—light and simple.",
+        "weight": "10g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Flax4LifeMuffins_GlutenFree_Flax_CarrotRaisin.jpg?v=1586950379"
+        ]
+    },
+    {
+        "id": "classic-baguette-200g",
+        "title": "Classic Baguette",
+        "price": "0.50",
+        "category": "Bakery & Pastry",
+        "subcategory": "Breads",
+        "short_description": "Traditional baguette with a crisp crust and airy crumb—perfect with cheese or soups.",
+        "weight": "200g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/ClassicBaguette.jpg?v=1586950312"
+        ]
+    },
+    {
+        "id": "chompies-low-carb-multigrain-brown-bread-500g",
+        "title": "Chompies Low Carb Multigrain Brown Bread",
+        "price": "0.95",
+        "category": "Bakery & Pastry",
+        "subcategory": "Breads",
+        "short_description": "Multigrain brown bread with lower carbs, offering hearty texture and whole grains.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/ChompiesLowCarbMultigrainBread.jpg?v=1586950239"
+        ]
+    },
+    {
+        "id": "oroweat-organic-rustic-white-bread-600g",
+        "title": "Oroweat Organic Rustic White Bread",
+        "price": "1.10",
+        "category": "Bakery & Pastry",
+        "subcategory": "Breads",
+        "short_description": "Rustic-style organic white bread with a hearty crumb and crusty exterior.",
+        "weight": "600g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/CanyonBakehouseGlutenFreeOroweatOrganicRusticWhiteBreadMountainWhiteBread.jpg?v=1586950181"
+        ]
+    },
+    {
+        "id": "oroweat-whole-grains-100-whole-wheat-brown-bread-600g",
+        "title": "Oroweat Whole Grains 100% Whole Wheat Brown Bread",
+        "price": "0.90",
+        "category": "Bakery & Pastry",
+        "subcategory": "Breads",
+        "short_description": "100% whole wheat bread rich in whole grains for a nutritious, hearty loaf.",
+        "weight": "600g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Brownberry-Arnold-OroweatWholeGrains100_WholeWheatBread.jpg?v=1586950108"
+        ]
+    },
+    {
+        "id": "oroweat-country-potato-sandwich-buns-600g",
+        "title": "Oroweat Country Potato Sandwich Buns",
+        "price": "0.70",
+        "category": "Bakery & Pastry",
+        "subcategory": "Buns",
+        "short_description": "Soft potato sandwich buns with a tender crumb, ideal for burgers or sandwiches.",
+        "weight": "600g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Brownberry-Arnold-OroweatCountryPotatoSandwichBuns.jpg?v=1586949849"
+        ]
+    },
+    {
+        "id": "oroweat-whole-wheat-sandwich-buns-500g",
+        "title": "Oroweat Whole Wheat Sandwich Buns",
+        "price": "0.60",
+        "category": "Bakery & Pastry",
+        "subcategory": "Buns",
+        "short_description": "Whole wheat sandwich buns that offer a nuttier flavor and sturdy texture.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Brownberry-Arnold-Oroweat100_WholeWheatSandwichBuns.jpg?v=1586949954"
+        ]
+    },
+    {
+        "id": "all-natural-raspberry-strudel-bites-150g",
+        "title": "All Natural Raspberry Strudel Bites",
+        "price": "0.99",
+        "category": "Bakery & Pastry",
+        "subcategory": "Pastries",
+        "short_description": "Bite-sized strudels filled with raspberry for a sweet, fruity snack.",
+        "weight": "150g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/AllNaturalRaspberryStrudelBites.jpg?v=1586950001"
+        ]
+    },
+    {
+        "id": "sprouts-organic-garlic-granules-70g",
+        "title": "Sprouts Organic Garlic Granules",
+        "price": "1.20",
+        "category": "Snacks & Beverages",
+        "subcategory": "Spices & Seasonings",
+        "short_description": "Organic garlic granules for easy seasoning—convenient and shelf-stable.",
+        "weight": "70g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Y.s.-Eco-Bee-Farms-Raw-Honey-update-1.jpg?v=1587920353"
+        ]
+    },
+    {
+        "id": "wedderspoon-manuka-raw-honey-500g",
+        "title": "Wedderspoon Manuka Raw Honey",
+        "price": "6.10",
+        "category": "Snacks & Beverages",
+        "subcategory": "Honey & Syrups",
+        "short_description": "Premium Manuka raw honey with a distinctive, rich flavor—great for sweetening or drizzling.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Wedderspoon-Honey_-Manuka_-Raw_-KFactor-16-update-1.jpg?v=1587920313"
+        ]
+    },
+    {
+        "id": "sprouts-organic-turmeric-root-powder-40g",
+        "title": "Sprouts Organic Turmeric Root Powder",
+        "price": "0.70",
+        "category": "Snacks & Beverages",
+        "subcategory": "Spices & Seasonings",
+        "short_description": "Organic turmeric powder for warming, earthy flavor—ideal for cooking and beverages.",
+        "weight": "40g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Sprouts-Organic-Turmeric-Root-Powder-Spice-update-1.jpg?v=1587920284"
+        ]
+    },
+    {
+        "id": "sprouts-organic-refined-coconut-oil-400ml",
+        "title": "Sprouts Organic Refined Coconut Oil",
+        "price": "3.80",
+        "category": "Snacks & Beverages",
+        "subcategory": "Cooking Oils",
+        "short_description": "Refined organic coconut oil suitable for high-heat cooking and baking.",
+        "weight": "400ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Sprouts-Organic-Refined-Coconut-Oil-update-1.jpg?v=1587920234"
+        ]
+    },
+    {
+        "id": "sprouts-organic-garlic-granules-spice-65g",
+        "title": "Sprouts Organic Garlic Granules Spice",
+        "price": "0.80",
+        "category": "Snacks & Beverages",
+        "subcategory": "Spices & Seasonings",
+        "short_description": "Garlic granules made from organic garlic—handy for seasoning any savory dish.",
+        "weight": "65g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Sprouts-Organic-Garlic-Granules-Spice-update-1.jpg?v=1587920180"
+        ]
+    },
+    {
+        "id": "sprouts-organic-coconut-oil-440ml",
+        "title": "Sprouts Organic Coconut Oil",
+        "price": "4.80",
+        "category": "Snacks & Beverages",
+        "subcategory": "Cooking Oils",
+        "short_description": "Organic virgin coconut oil offering natural flavor for cooking and baking.",
+        "weight": "440ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Sprouts-Organic-Coconut-Oil-update-1.jpg?v=1587920142"
+        ]
+    },
+    {
+        "id": "sprouts-organic-cinnamon-powder-50g",
+        "title": "Sprouts Organic Cinnamon Powder",
+        "price": "2.10",
+        "category": "Snacks & Beverages",
+        "subcategory": "Spices & Seasonings",
+        "short_description": "Warm, aromatic organic cinnamon powder for baking, drinks, and savory uses.",
+        "weight": "50g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Sprouts-Organic-Cinnamon-Powder-update-1.jpg?v=1587920095"
+        ]
+    },
+    {
+        "id": "spectrum-refined-high-heat-canola-oil-740ml",
+        "title": "Spectrum Refined High Heat Canola Oil",
+        "price": "4.20",
+        "category": "Snacks & Beverages",
+        "subcategory": "Cooking Oils",
+        "short_description": "Refined canola oil formulated for high-heat cooking and frying.",
+        "weight": "740ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Spectrum-Refined-High-Heat-Canola-Oil-update-1.jpg?v=1587920020"
+        ]
+    },
+    {
+        "id": "spectrum-organic-balsamic-vinegar-of-modena-330ml",
+        "title": "Spectrum Organic Balsamic Vinegar of Modena",
+        "price": "2.20",
+        "category": "Snacks & Beverages",
+        "subcategory": "Vinegars",
+        "short_description": "Organic balsamic vinegar with balanced acidity—great for dressings and marinades.",
+        "weight": "330ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Spectrum-Organic-Balsamic-Vinegar-of-Modena-update-1.jpg?v=1587919916"
+        ]
+    },
+    {
+        "id": "simply-organic-paprika-80g",
+        "title": "Simply Organic Paprika",
+        "price": "2.95",
+        "category": "Snacks & Beverages",
+        "subcategory": "Spices & Seasonings",
+        "short_description": "Organic paprika offering sweet, smoky notes to enhance color and taste in dishes.",
+        "weight": "80g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Simply-Organic-Paprika-update-1.jpg?v=1587919867"
+        ]
+    },
+    {
+        "id": "simply-organic-certified-organic-garlic-n-herb-80g",
+        "title": "Simply Organic Certified Organic Garlic N Herb",
+        "price": "2.35",
+        "category": "Snacks & Beverages",
+        "subcategory": "Spices & Seasonings",
+        "short_description": "Certified organic garlic and herb blend to season meats, vegetables, and sauces.",
+        "weight": "80g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Simply-Organic-Certified-Organic-Garlic-N-Herb-update-1.jpg?v=1587919806"
+        ]
+    },
+    {
+        "id": "nutiva-coconut-oil-150ml",
+        "title": "Nutiva Coconut Oil",
+        "price": "1.50",
+        "category": "Snacks & Beverages",
+        "subcategory": "Cooking Oils",
+        "short_description": "Classic coconut oil suitable for cooking and baking with a mild coconut aroma.",
+        "weight": "150ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Nutiva-Coconut-Oil_-Classic_-Liquid-update-1.jpg?v=1587919733"
+        ]
+    },
+    {
+        "id": "nature-nates-raw-unfiltered-honey-200g",
+        "title": "Nature Nate's Raw & Unfiltered Honey",
+        "price": "4.25",
+        "category": "Snacks & Beverages",
+        "subcategory": "Honey & Syrups",
+        "short_description": "Raw, unfiltered honey with natural sweetness and texture for teas or toast.",
+        "weight": "200g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Nature-Nate_s-100_-Pure-Raw-_-Unfiltered-Honey-update-1.jpg?v=1587919691"
+        ]
+    },
+    {
+        "id": "local-hive-so-cal-raw-unfiltered-honey-300g",
+        "title": "Local Hive So Cal Raw & Unfiltered Honey",
+        "price": "4.99",
+        "category": "Snacks & Beverages",
+        "subcategory": "Honey & Syrups",
+        "short_description": "Locally sourced raw honey with rich flavor—great for natural sweetening.",
+        "weight": "300g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Local-Hive-So-Cal-Raw-_-Unfiltered-Honey-update-1.jpg?v=1587918557"
+        ]
+    },
+    {
+        "id": "lily-of-the-desert-aloe-vera-gelly-600ml",
+        "title": "Lily of the Desert Aloe Vera Gelly",
+        "price": "6.25",
+        "category": "Snacks & Beverages",
+        "subcategory": "Pantry",
+        "short_description": "Aloe vera gelly for topical use or general wellness routines; soothing and pure.",
+        "weight": "600ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Lily-of-the-Desert-99_-Aloe-Vera-Gelly-update-1.jpg?v=1587918516"
+        ]
+    },
+    {
+        "id": "glory-bee-refined-organic-coconut-oil-350ml",
+        "title": "Glory Bee Refined Organic Coconut Oil",
+        "price": "2.95",
+        "category": "Snacks & Beverages",
+        "subcategory": "Cooking Oils",
+        "short_description": "Refined organic coconut oil suitable for cooking, offering a neutral taste.",
+        "weight": "350ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/GloryBee-Refined-Organic-Coconut-Oil-update-1.jpg?v=1587918442"
+        ]
+    },
+    {
+        "id": "dr-bronners-organic-virgin-coconut-oil-450ml",
+        "title": "Dr. Bronner's Organic Virgin Coconut Oil",
+        "price": "3.50",
+        "category": "Snacks & Beverages",
+        "subcategory": "Cooking Oils",
+        "short_description": "Virgin organic coconut oil with natural aroma—good for cooking and personal care.",
+        "weight": "450ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Dr.-Bronner_s-All-One_-Dr.-Bronner_s-Organic-Virgin-Coconut-Oil-update-1.jpg?v=1587918381"
+        ]
+    },
+    {
+        "id": "chosen-foods-avocado-oil-335ml",
+        "title": "Chosen Foods Avocado Oil",
+        "price": "4.25",
+        "category": "Snacks & Beverages",
+        "subcategory": "Cooking Oils",
+        "short_description": "High-quality avocado oil with a light flavor ideal for dressings and searing.",
+        "weight": "335ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Chosen-Foods-Avocado-Oil-update-1.jpg?v=1587918336"
+        ]
+    },
+    {
+        "id": "bloom-honey-100-raw-highland-honey-500g",
+        "title": "Bloom Honey 100% Raw Highland Honey",
+        "price": "4.95",
+        "category": "Snacks & Beverages",
+        "subcategory": "Honey & Syrups",
+        "short_description": "Raw highland honey with natural sweetness and floral notes.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Bloom-Honey-100_-Raw-Highland-Honey-update-1.jpg?v=1587918291"
+        ]
+    },
+    {
+        "id": "bertolli-cold-extracted-original-extra-virgin-olive-oil-350ml",
+        "title": "Bertolli Cold Extracted Original Extra Virgin Olive Oil",
+        "price": "5.00",
+        "category": "Snacks & Beverages",
+        "subcategory": "Cooking Oils",
+        "short_description": "Cold-extracted extra virgin olive oil with classic olive aroma—great for finishing dishes.",
+        "weight": "350ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Bertolli-Cold-Extracted-Original-Extra-Virgin-Olive-Oil-update-1.jpg?v=1587918244"
+        ]
+    },
+    {
+        "id": "tillamook-kosher-medium-cheddar-100",
+        "title": "Tillamook Kosher Medium Cheddar",
+        "price": "2.45",
+        "category": "Dairy",
+        "subcategory": "Cheese",
+        "short_description": "Medium cheddar cheese with smooth texture and balanced flavor.",
+        "weight": "",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Tillamook-Cheese_-Kosher_-Medium-Cheddar-update-1.jpg?v=1587917996"
+        ]
+    },
+    {
+        "id": "siggis-low-fat-blackberry-yogurt-225g",
+        "title": "Siggi's Low-Fat Blackberry Yogurt",
+        "price": "3.40",
+        "category": "Dairy",
+        "subcategory": "Yogurt",
+        "short_description": "Strained-style low-fat yogurt with real blackberry flavor and creamy texture.",
+        "weight": "225g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Siggis-Yogurt_-Low-Fat_-Icelandic-Style-Cream-Skyr-Strained_-Blackberry-update-1.jpg?v=1587918173"
+        ]
+    },
+    {
+        "id": "siggis-peach-yogurt-225g",
+        "title": "Siggi's Peach Yogurt",
+        "price": "3.60",
+        "category": "Dairy",
+        "subcategory": "Yogurt",
+        "short_description": "Creamy yogurt with natural peach flavor, crafted for smooth texture and taste.",
+        "weight": "225g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Siggi_s-Strained-Non-Fat-Peach-Icelandic-Style-Skyr-Yogurt-update-1.jpg?v=1587918132"
+        ]
+    },
+    {
+        "id": "siggis-raspbeerry-yogurt-250g",
+        "title": "Siggi's Raspbeerry Yogurt",
+        "price": "3.50",
+        "category": "Dairy",
+        "subcategory": "Yogurt",
+        "short_description": "Strained yogurt with raspberry notes and a smooth, rich consistency.",
+        "weight": "250g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Siggi_s-Nonfat-Acai-_-Mixed-Berries-Yogurt-update-1.jpg?v=1587918091"
+        ]
+    },
+    {
+        "id": "siggis-non-fat-yogurt-vanilla-200g",
+        "title": "Siggi's Non-Fat Yogurt, Vanilla",
+        "price": "3.00",
+        "category": "Dairy",
+        "subcategory": "Yogurt",
+        "short_description": "Non-fat strained yogurt with natural vanilla for a light, smooth snack.",
+        "weight": "200g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Siggi_s-Icelandic-Style-Skyr-Non-Fat-Yogurt_-Vanilla-update-1.jpg?v=1587918044"
+        ]
+    },
+    {
+        "id": "organic-valley-raw-mild-cheddar-cheese-225g",
+        "title": "Organic Valley Raw Mild Cheddar Cheese",
+        "price": "4.10",
+        "category": "Dairy",
+        "subcategory": "Cheese",
+        "short_description": "Mild cheddar from organic sources with a smooth, creamy profile.",
+        "weight": "225g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Organic-Valley-Raw-Mild-Cheddar-Cheese-update-1.jpg?v=1587917922"
+        ]
+    },
+    {
+        "id": "organic-valley-organic-free-range-large-eggs-12pcs",
+        "title": "Organic Valley Organic Free-Range Large Eggs",
+        "price": "1.50",
+        "category": "Dairy",
+        "subcategory": "Eggs",
+        "short_description": "Free-range large eggs from organic farming—versatile and fresh for cooking.",
+        "weight": "12pcs",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Organic-Valley-Organic-Free-Range-Large-Eggs-update-1.jpg?v=1587917828"
+        ]
+    },
+    {
+        "id": "organic-valley-omega-3-organic-free-range-extra-large-eggs-12pcs",
+        "title": "Organic Valley Omega-3 Organic Free-Range Extra-Large Eggs",
+        "price": "1.80",
+        "category": "Dairy",
+        "subcategory": "Eggs",
+        "short_description": "Extra-large free-range eggs enriched with omega-3 for added nutritional value.",
+        "weight": "12pcs",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Organic-Valley-Organic-Free-Range-Extra-Large-Eggs-1-update-1.jpg?v=1587917785"
+        ]
+    },
+    {
+        "id": "organic-valley-organic-free-range-extra-large-eggs-12pcs",
+        "title": "Organic Valley Organic Free-Range Extra-Large Eggs",
+        "price": "1.50",
+        "category": "Dairy",
+        "subcategory": "Eggs",
+        "short_description": "Extra-large organic free-range eggs offering reliable quality for baking and cooking.",
+        "weight": "12pcs",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Organic-Valley-Organic-Free-Range-Extra-Large-Eggs-update-1.jpg?v=1587917739"
+        ]
+    },
+    {
+        "id": "deans-dairy-pure-reduced-fat-milk-750ml",
+        "title": "Dean's Dairy Pure Reduced Fat Milk",
+        "price": "0.70",
+        "category": "Dairy",
+        "subcategory": "Milk",
+        "short_description": "Reduced fat milk with a smooth taste suitable for daily drinking and cooking.",
+        "weight": "750ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/milk-5-update-1.jpg?v=1587917705"
+        ]
+    },
+    {
+        "id": "fair-life-fat-free-milk-750ml",
+        "title": "Fair Life Fat Free Milk",
+        "price": "0.80",
+        "category": "Dairy",
+        "subcategory": "Milk",
+        "short_description": "Fat-free milk with a clean taste and smooth mouthfeel—great for cereals and coffee.",
+        "weight": "750ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/milk-4-update-1.jpg?v=1587917602"
+        ]
+    },
+    {
+        "id": "fair-life-chocolate-milk-350ml",
+        "title": "Fair Life Chocolate Milk",
+        "price": "1.25",
+        "category": "Dairy",
+        "subcategory": "Milk",
+        "short_description": "Chocolate-flavored milk offering creamy taste and convenient single-serve size.",
+        "weight": "350ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/milk-3-update-1.jpg?v=1587917566"
+        ]
+    },
+    {
+        "id": "fair-life-reduced-fat-milk-750ml",
+        "title": "Fair Life Reduced Fat Milk",
+        "price": "0.75",
+        "category": "Dairy",
+        "subcategory": "Milk",
+        "short_description": "Balanced reduced fat milk with a pleasant flavor for everyday use.",
+        "weight": "750ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/milk-2-update-1.jpg?v=1587917523"
+        ]
+    },
+    {
+        "id": "fair-life-milk-750ml",
+        "title": "Fair Life Milk",
+        "price": "0.75",
+        "category": "Dairy",
+        "subcategory": "Milk",
+        "short_description": "Full-flavor milk suitable for drinking, cooking, and adding to beverages.",
+        "weight": "750ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/milk-1-update-1.jpg?v=1587917492"
+        ]
+    },
+    {
+        "id": "liberte-whole-milk-yogurt-155g",
+        "title": "Liberte Whole Milk Yogurt",
+        "price": "1.75",
+        "category": "Dairy",
+        "subcategory": "Yogurt",
+        "short_description": "Rich whole milk yogurt with a creamy texture—great for breakfast or snacks.",
+        "weight": "155g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Liberte-Milk-Yogart-update-1.jpg?v=1587917418"
+        ]
+    },
+    {
+        "id": "good-culture-organic-strawberry-cottage-cheese-500g",
+        "title": "Good Culture Organic Strawberry Cottage Cheese",
+        "price": "4.99",
+        "category": "Dairy",
+        "subcategory": "Cottage Cheese",
+        "short_description": "Organic cottage cheese with strawberry for a sweet and creamy snack.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Kalona-Super-Natural-Organic-Whole-Milk-Cottage-Cheese-1-update-1.jpg?v=1587917331"
+        ]
+    },
+    {
+        "id": "kalona-super-natural-organic-whole-milk-cottage-cheese-300g",
+        "title": "Kalona Super Natural Organic Whole Milk Cottage Cheese",
+        "price": "4.90",
+        "category": "Dairy",
+        "subcategory": "Cottage Cheese",
+        "short_description": "Whole milk cottage cheese from organic sources with a rich, creamy texture.",
+        "weight": "300g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Kalona-Super-Natural-Organic-Whole-Milk-Cottage-Cheese-update-1.jpg?v=1587917239"
+        ]
+    },
+    {
+        "id": "good-culture-cottage-organic-cheese-440g",
+        "title": "Good Culture Cottage Organic Cheese",
+        "price": "2.65",
+        "category": "Dairy",
+        "subcategory": "Cottage Cheese",
+        "short_description": "Organic cottage cheese packaged for convenience—light and versatile.",
+        "weight": "440g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Good-Culture-Cottage-Cheese_-Organic-update-1.jpg?v=1587917191"
+        ]
+    },
+    {
+        "id": "belcampo-organic-pasture-raised-eggs-10pcs",
+        "title": "Belcampo Organic Pasture Raised Eggs",
+        "price": "1.25",
+        "category": "Dairy",
+        "subcategory": "Eggs",
+        "short_description": "Pasture-raised organic eggs offering dependable freshness and rich yolks.",
+        "weight": "10pcs",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/BelcampoOrganicPastureRaisedEggs.jpg?v=1587724443"
+        ]
+    },
+    {
+        "id": "alexandre-family-organic-jumbo-eggs-12pcs",
+        "title": "Alexandre Family Organic Jumbo Eggs",
+        "price": "1.50",
+        "category": "Dairy",
+        "subcategory": "Eggs",
+        "short_description": "Organic jumbo eggs ideal for baking and cooking with extra-large yolks.",
+        "weight": "12pcs",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Alexandre-Family-Organic-Jumbo-Eggs-update-1.jpg?v=1587916569"
+        ]
+    },
+    {
+        "id": "steep-lemon-ginger-tea-40g",
+        "title": "Steep Lemon & Ginger Tea",
+        "price": "3.95",
+        "category": "Snacks & Beverages",
+        "subcategory": "Coffee & Tea",
+        "short_description": "Lemon and ginger tea blend that offers a bright, soothing cup anytime.",
+        "weight": "40g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/tea-9-update-1.jpg?v=1587915068"
+        ]
+    },
+    {
+        "id": "taze-turmeric-bliss-herbal-tea-30g",
+        "title": "Taze Turmeric Bliss Herbal Tea",
+        "price": "4.45",
+        "category": "Snacks & Beverages",
+        "subcategory": "Coffee & Tea",
+        "short_description": "Herbal turmeric tea with a warming profile—crafted for wellness and flavor.",
+        "weight": "30g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/tea-8-update-1.jpg?v=1587914985"
+        ]
+    },
+    {
+        "id": "steep-organic-oolong-jasmine-green-tea-50g-1",
+        "title": "Steep Organic Oolong & Jasmine Green Tea",
+        "price": "6.20",
+        "category": "Snacks & Beverages",
+        "subcategory": "Coffee & Tea",
+        "short_description": "Organic oolong and jasmine blend offering floral aroma and balanced taste.",
+        "weight": "50g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/tea-7-update-1.jpg?v=1587914942"
+        ]
+    },
+    {
+        "id": "twinings-green-tea-40g",
+        "title": "Twinings Green Tea",
+        "price": "3.00",
+        "category": "Snacks & Beverages",
+        "subcategory": "Coffee & Tea",
+        "short_description": "Classic green tea with a clean, refreshing flavor—ideal for daily sipping.",
+        "weight": "40g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/tea-4-update-1.jpg?v=1587914907"
+        ]
+    },
+    {
+        "id": "temple-leaf-detox-cleansing-revitalizing-tea-40g",
+        "title": "Temple Leaf Detox Cleansing & Revitalizing Tea",
+        "price": "4.99",
+        "category": "Snacks & Beverages",
+        "subcategory": "Coffee & Tea",
+        "short_description": "Herbal detox blend crafted to revitalize and support hydration rituals.",
+        "weight": "40g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/tea-3-update-1.jpg?v=1587914858"
+        ]
+    },
+    {
+        "id": "traditional-medicinals-organic-throat-coat-seasonal-tea-30g",
+        "title": "Traditional Medicinals Organic Throat Coat Seasonal Tea",
+        "price": "5.90",
+        "category": "Snacks & Beverages",
+        "subcategory": "Coffee & Tea",
+        "short_description": "Soothing organic tea specially formulated to comfort the throat and calm the senses.",
+        "weight": "30g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/tea-2-update-1.jpg?v=1587914756"
+        ]
+    },
+    {
+        "id": "temple-leaf-super-slim-herbal-tea",
+        "title": "Temple Leaf Super Slim Herbal Tea",
+        "price": "0.95",
+        "category": "Snacks & Beverages",
+        "subcategory": "Coffee & Tea",
+        "short_description": "Light herbal tea blend designed to support a feeling of lightness.",
+        "weight": "",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/tea-1-update-1.jpg?v=1587914715"
+        ]
+    },
+    {
+        "id": "taze-matcha-mate-grapefruit-tea-150g",
+        "title": "Taze Matcha Mate Grapefruit Tea",
+        "price": "2.60",
+        "category": "Snacks & Beverages",
+        "subcategory": "Coffee & Tea",
+        "short_description": "Energetic blend of matcha and mate with grapefruit notes for a bright cup.",
+        "weight": "150g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/tea--6-update-1.jpg?v=1587914684"
+        ]
+    },
+    {
+        "id": "temple-leaf-diet-green-tea-40g",
+        "title": "Temple leaf Diet Green Tea",
+        "price": "4.80",
+        "category": "Snacks & Beverages",
+        "subcategory": "Coffee & Tea",
+        "short_description": "Green tea blend focusing on a light, refreshing profile for daily enjoyment.",
+        "weight": "40g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/tea--5-update-1.jpg?v=1587914631"
+        ]
+    },
+    {
+        "id": "jarritos-tamarind-180ml",
+        "title": "Jarritos Tamarind",
+        "price": "0.90",
+        "category": "Snacks & Beverages",
+        "subcategory": "Drinks",
+        "short_description": "Tamarind-flavored fizzy drink with bold, tangy sweetness.",
+        "weight": "180ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Fizzy-drinks-9-update-1.jpg?v=1587973733"
+        ]
+    },
+    {
+        "id": "starbucks-frappucino-quad-pack-960ml",
+        "title": "Starbucks Frappucino Quad Pack",
+        "price": "5.99",
+        "category": "Snacks & Beverages",
+        "subcategory": "Drinks",
+        "short_description": "Multi-pack of ready-to-drink coffee frappuccino—creamy and convenient.",
+        "weight": "960ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Fizzy-drinks-8-update-1.jpg?v=1587914167"
+        ]
+    },
+    {
+        "id": "coca-cola-500ml",
+        "title": "Coca Cola",
+        "price": "0.45",
+        "category": "Snacks & Beverages",
+        "subcategory": "Drinks",
+        "short_description": "Classic carbonated cola with familiar, refreshing taste.",
+        "weight": "500ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Fizzy-drinks-7-update-1.jpg?v=1587914110"
+        ]
+    },
+    {
+        "id": "starbucks-double-shot-energy-395ml",
+        "title": "Starbucks Double Shot Energy",
+        "price": "2.99",
+        "category": "Snacks & Beverages",
+        "subcategory": "Drinks",
+        "short_description": "Ready-to-drink energy coffee with bold flavor and convenient portability.",
+        "weight": "395ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Fizzy-drinks-4-update-1.jpg?v=1587914051"
+        ]
+    },
+    {
+        "id": "kerns-strawberry-nectar-320ml",
+        "title": "Kern's Strawberry Nectar",
+        "price": "0.85",
+        "category": "Snacks & Beverages",
+        "subcategory": "Juices",
+        "short_description": "Sweet strawberry nectar with smooth texture—great chilled.",
+        "weight": "320ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Fizzy-drinks-1-update-1.jpg?v=1587914021"
+        ]
+    },
+    {
+        "id": "starbucks-mocha-frappuccino-280ml",
+        "title": "Starbucks Mocha Frappuccino",
+        "price": "2.10",
+        "category": "Snacks & Beverages",
+        "subcategory": "Drinks",
+        "short_description": "Mocha-flavored ready-to-drink frappuccino with rich chocolate and coffee notes.",
+        "weight": "280ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Fizzy-drinks--6-update-1.jpg?v=1587973872"
+        ]
+    },
+    {
+        "id": "jumex-guava-nectar-335ml",
+        "title": "Jumex Guava Nectar",
+        "price": "0.90",
+        "category": "Snacks & Beverages",
+        "subcategory": "Juices",
+        "short_description": "Guava nectar offering tropical sweetness in a convenient bottle.",
+        "weight": "335ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Fizzy-drinks--5-update-1.jpg?v=1587973676"
+        ]
+    },
+    {
+        "id": "hansens-natural-root-beer-355ml",
+        "title": "Hansen's Natural Root Beer",
+        "price": "1.20",
+        "category": "Snacks & Beverages",
+        "subcategory": "Drinks",
+        "short_description": "Natural root beer with classic flavor and fizzy refreshment.",
+        "weight": "355ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Fizzy-drinks--3-update-1.jpg?v=1587913731"
+        ]
+    },
+    {
+        "id": "diet-hansens-diet-root-beer-335ml",
+        "title": "Diet Hansen's Diet Root Beer",
+        "price": "1.25",
+        "category": "Snacks & Beverages",
+        "subcategory": "Drinks",
+        "short_description": "Diet-friendly root beer with the nostalgic taste and fewer calories.",
+        "weight": "335ml",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Fizzy-drinks--2-update-1.jpg?v=1587913668"
+        ]
+    },
+    {
+        "id": "doritos-nacho-cheese-165g",
+        "title": "Doritos Nacho Cheese",
+        "price": "1.95",
+        "category": "Snacks & Beverages",
+        "subcategory": "Chips",
+        "short_description": "Crunchy nacho cheese flavored tortilla chips—bold and savory.",
+        "weight": "165g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/crisp-10-update-1.jpg?v=1587913564"
+        ]
+    },
+    {
+        "id": "doritos-cool-ranch-30g",
+        "title": "Doritos Cool Ranch",
+        "price": "0.80",
+        "category": "Snacks & Beverages",
+        "subcategory": "Chips",
+        "short_description": "Crispy ranch-flavored chips with a cool, tangy seasoning.",
+        "weight": "30g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/crisp-7-update-1.jpg?v=1587913531"
+        ]
+    },
+    {
+        "id": "sun-chips-450g",
+        "title": "Sun Chips",
+        "price": "2.99",
+        "category": "Snacks & Beverages",
+        "subcategory": "Chips",
+        "short_description": "Multigrain waves offering crunchy texture and savory flavor.",
+        "weight": "450g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/crisp-6-update-1.jpg?v=1587913349"
+        ]
+    },
+    {
+        "id": "lays-stax-150g",
+        "title": "Lay's Stax",
+        "price": "2.20",
+        "category": "Snacks & Beverages",
+        "subcategory": "Chips",
+        "short_description": "Stackable potato crisps packaged for easy snacking and portability.",
+        "weight": "150g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/crisp-4-update-1.jpg?v=1587913317"
+        ]
+    },
+    {
+        "id": "pringles-original-150g",
+        "title": "Pringles Original",
+        "price": "1.95",
+        "category": "Snacks & Beverages",
+        "subcategory": "Chips",
+        "short_description": "Classic original-flavored crisps in a convenient canister.",
+        "weight": "150g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/crisp-2-update-1.jpg?v=1587913274"
+        ]
+    },
+    {
+        "id": "pringles-chadder-cheese-225g",
+        "title": "Pringles Chadder Cheese",
+        "price": "1.99",
+        "category": "Snacks & Beverages",
+        "subcategory": "Chips",
+        "short_description": "Cheese-flavored stacked crisps with a bold cheddar profile.",
+        "weight": "150g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/crisp-1-update-1.jpg?v=1587913216"
+        ]
+    },
+    {
+        "id": "popchips-sour-cream-onion-450g",
+        "title": "Popchips Sour Cream & Onion",
+        "price": "1.25",
+        "category": "Snacks & Beverages",
+        "subcategory": "Chips",
+        "short_description": "Lightly popped crisps with tangy sour cream and onion seasoning.",
+        "weight": "450g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/crisp--9-update-1.jpg?v=1587913171"
+        ]
+    },
+    {
+        "id": "lays-barbecue-party-size-415g",
+        "title": "Lay's Barbecue Party Size",
+        "price": "2.10",
+        "category": "Snacks & Beverages",
+        "subcategory": "Chips",
+        "short_description": "Party-size barbecue chips with smoky-sweet seasoning for groups and gatherings.",
+        "weight": "415g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/crisp--8-update-1.jpg?v=1587913110"
+        ]
+    },
+    {
+        "id": "pringles-bbq-150g",
+        "title": "Pringles BBQ",
+        "price": "1.95",
+        "category": "Snacks & Beverages",
+        "subcategory": "Chips",
+        "short_description": "BBQ-flavored stacked crisps with tangy and smoky seasoning.",
+        "weight": "150g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/crisp--3-update-1.jpg?v=1587912869"
+        ]
+    },
+    {
+        "id": "caffe-vergnano-torino-coffee-225g",
+        "title": "Caffe Vergnano Torino Coffee",
+        "price": "2.95",
+        "category": "Snacks & Beverages",
+        "subcategory": "Coffee & Tea",
+        "short_description": "Fresh roasted coffee beans offering robust flavor for espresso or drip brewing.",
+        "weight": "225g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Coffee-8-update-1.jpg?v=1587912712"
+        ]
+    },
+    {
+        "id": "caffe-vergnano-express-445g",
+        "title": "Caffe Vergnano Expresso",
+        "price": "4.20",
+        "category": "Snacks & Beverages",
+        "subcategory": "Coffee & Tea",
+        "short_description": "Espresso blend designed for concentrated, full-bodied shots with rich crema.",
+        "weight": "445g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Coffee-10-update-1.jpg?v=1587912665"
+        ]
+    },
+    {
+        "id": "lavazza-tierra-ground-coffee-225g",
+        "title": "Lavazza Tierra Ground Coffee",
+        "price": "3.25",
+        "category": "Snacks & Beverages",
+        "subcategory": "Coffee & Tea",
+        "short_description": "Ground coffee with balanced notes for everyday brewing.",
+        "weight": "225g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Coffee--9-update-1.jpg?v=1587912634"
+        ]
+    },
+    {
+        "id": "caffe-vergnano-arabica-100-koka-495g",
+        "title": "Caffe Vergnano Arabica 100% Koka",
+        "price": "4.99",
+        "category": "Snacks & Beverages",
+        "subcategory": "Coffee & Tea",
+        "short_description": "100% Arabica coffee delivering smooth flavor and aromatic complexity.",
+        "weight": "495g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Coffee--6-update-1.jpg?v=1587973800"
+        ]
+    },
+    {
+        "id": "lavazza-classic-coffee-beans-450g",
+        "title": "Lavazza Classic Coffee Beans",
+        "price": "4.75",
+        "category": "Snacks & Beverages",
+        "subcategory": "Coffee & Tea",
+        "short_description": "Whole coffee beans with a classic profile for fresh grinding and brewing.",
+        "weight": "450g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Coffee--4-update-1.jpg?v=1587912528"
+        ]
+    },
+    {
+        "id": "caffe-vergnano-coffee-beans-450g",
+        "title": "Caffe Vergnano Coffee Beans",
+        "price": "4.95",
+        "category": "Snacks & Beverages",
+        "subcategory": "Coffee & Tea",
+        "short_description": "Premium coffee beans offering a rich, balanced cup when freshly ground.",
+        "weight": "450g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Coffee-7-update-1.jpg?v=1587973829"
+        ]
+    },
+    {
+        "id": "lavazza-coffee-350g",
+        "title": "Lavazza Coffee",
+        "price": "3.30",
+        "category": "Snacks & Beverages",
+        "subcategory": "Coffee & Tea",
+        "short_description": "Versatile coffee suitable for both espresso and filter brewing methods.",
+        "weight": "350g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Coffee--2-update-1.jpg?v=1587912412"
+        ]
+    },
+    {
+        "id": "caramel-lovers-400g",
+        "title": "Caramel Lovers",
+        "price": "4.20",
+        "category": "Snacks & Beverages",
+        "subcategory": "Sweets & Chocolate",
+        "short_description": "Assorted caramel-filled chocolates for a sweet indulgence.",
+        "weight": "400g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Chocolates-10-update-1.jpg?v=1587973992"
+        ]
+    },
+    {
+        "id": "m-ms-lovers-300g",
+        "title": "m&m's Lovers",
+        "price": "4.00",
+        "category": "Snacks & Beverages",
+        "subcategory": "Sweets & Chocolate",
+        "short_description": "A mix of classic candy-coated chocolates for sharing or snacking.",
+        "weight": "300g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Chocolates-7-update-1.jpg?v=1587899249"
+        ]
+    },
+    {
+        "id": "twix-minis-450g",
+        "title": "Twix Minis",
+        "price": "3.99",
+        "category": "Snacks & Beverages",
+        "subcategory": "Sweets & Chocolate",
+        "short_description": "Mini Twix bars with caramel and biscuit covered in milk chocolate.",
+        "weight": "450g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Chocolates-6-update-1.jpg?v=1587899212"
+        ]
+    },
+    {
+        "id": "twix-30g",
+        "title": "Twix",
+        "price": "0.45",
+        "category": "Snacks & Beverages",
+        "subcategory": "Sweets & Chocolate",
+        "short_description": "Single-serve Twix bar offering both crunchy and caramel textures.",
+        "weight": "30g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Chocolates-5-update-1.jpg?v=1587899170"
+        ]
+    },
+    {
+        "id": "hersheys-milk-chocolate-30g",
+        "title": "Hershey's Milk Chocolate",
+        "price": "0.60",
+        "category": "Snacks & Beverages",
+        "subcategory": "Sweets & Chocolate",
+        "short_description": "Classic milk chocolate bar with a smooth, familiar taste.",
+        "weight": "30g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Chocolates-3-update-1.jpg?v=1587899124"
+        ]
+    },
+    {
+        "id": "kitkat-40g",
+        "title": "Kitkat",
+        "price": "0.85",
+        "category": "Snacks & Beverages",
+        "subcategory": "Sweets & Chocolate",
+        "short_description": "Crisp wafer layers coated in milk chocolate for a light crunch.",
+        "weight": "40g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Chocolates-2-update-1.jpg?v=1587973942"
+        ]
+    },
+    {
+        "id": "skor-20g",
+        "title": "Skor",
+        "price": "0.30",
+        "category": "Snacks & Beverages",
+        "subcategory": "Sweets & Chocolate",
+        "short_description": "Thin toffee candy coated in chocolate for crunchy caramel satisfaction.",
+        "weight": "20g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Chocolates-1-update-1.jpg?v=1587899058"
+        ]
+    },
+    {
+        "id": "snikers-minis-200g",
+        "title": "Snikers Minis",
+        "price": "2.90",
+        "category": "Snacks & Beverages",
+        "subcategory": "Sweets & Chocolate",
+        "short_description": "Mini Snickers bars combining nougat, caramel, and peanuts coated in chocolate.",
+        "weight": "200g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Chocolates--9-update-1.jpg?v=1587974023"
+        ]
+    },
+    {
+        "id": "kitkat-minatures-100g",
+        "title": "Kitkat Minatures",
+        "price": "3.50",
+        "category": "Snacks & Beverages",
+        "subcategory": "Sweets & Chocolate",
+        "short_description": "Bag of miniature KitKat bars—great for sharing or special occasions.",
+        "weight": "100g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Chocolates--8-update-1.jpg?v=1587973969"
+        ]
+    },
+    {
+        "id": "snickers-50g",
+        "title": "Snickers",
+        "price": "35.00",
+        "category": "Snacks & Beverages",
+        "subcategory": "Sweets & Chocolate",
+        "short_description": "Classic candy bar combining nougat, caramel, and peanuts in chocolate.",
+        "weight": "50g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/Chocolates--4-update-1.jpg?v=1587898870"
+        ]
+    },
+    {
+        "id": "sprouts-diced-yellow-onions-1kg",
+        "title": "Sprouts Diced Yellow Onions",
+        "price": "1.20",
+        "category": "Vegetables",
+        "subcategory": "Root Vegetables",
+        "short_description": "Pre-diced yellow onions for easy cooking—adds sweet-savory flavor to recipes.",
+        "weight": "1kg",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/pack-veg-10-update-1.jpg?v=1587896756"
+        ]
+    },
+    {
+        "id": "taylor-farms-mixed-vegetables-750g",
+        "title": "Taylor Farm's Mixed Vegetables",
+        "price": "2.95",
+        "category": "Vegetables",
+        "subcategory": "Packaged",
+        "short_description": "Mixed vegetables tray ready for quick steaming or stir-fries—convenient and fresh.",
+        "weight": "750g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/pack-veg-9-update-1.jpg?v=1587896719"
+        ]
+    },
+    {
+        "id": "earthbound-farm-organic-vegetable-tray-500g",
+        "title": "Earthbound Farm Organic Vegetable Tray",
+        "price": "2.95",
+        "category": "Vegetables",
+        "subcategory": "Packaged",
+        "short_description": "Organic ready-to-eat vegetable tray for easy snacking or sides.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/pack-veg-8-update-1.jpg?v=1587896667"
+        ]
+    },
+    {
+        "id": "wegmans-peppers-200g",
+        "title": "Wegman's Peppers",
+        "price": "3.10",
+        "category": "Vegetables",
+        "subcategory": "Packaged",
+        "short_description": "Colorful mixed peppers ready to slice and add color or crunch to meals.",
+        "weight": "200g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/pack-veg-7-update-1.jpg?v=1587896630"
+        ]
+    },
+    {
+        "id": "wegmans-carrots-500g",
+        "title": "Wegman's Carrots",
+        "price": "2.10",
+        "category": "Vegetables",
+        "subcategory": "Root Vegetables",
+        "short_description": "Fresh carrots for snacking, cooking, or roasting with natural sweetness.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/pack-veg-6-update-1.jpg?v=1587896506"
+        ]
+    },
+    {
+        "id": "packed-edamame-200g",
+        "title": "Packed Edamame",
+        "price": "0.80",
+        "category": "Vegetables",
+        "subcategory": "Packaged",
+        "short_description": "Shelled edamame in a convenient pack—great as a snack or salad addition.",
+        "weight": "200g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/pack-veg-5-update-1.jpg?v=1587896443"
+        ]
+    },
+    {
+        "id": "wegmans-romain-heart-100g",
+        "title": "Wegman's Romain Heart",
+        "price": "1.30",
+        "category": "Vegetables",
+        "subcategory": "Leafy Greens",
+        "short_description": "Romaine heart with crisp texture, ideal for salads and grilling.",
+        "weight": "100g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/pack-veg-4-update-1.jpg?v=1587896343"
+        ]
+    },
+    {
+        "id": "fresh-co-organic-lettuce-100g",
+        "title": "Fresh& Co Organic Lettuce",
+        "price": "1.60",
+        "category": "Vegetables",
+        "subcategory": "Leafy Greens",
+        "short_description": "Organic lettuce with crisp leaves—perfect for fresh salads and sandwiches.",
+        "weight": "100g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/pack-veg-3-update-1.jpg?v=1587896263"
+        ]
+    },
+    {
+        "id": "sprouts-diced-tri-pepper-200g",
+        "title": "Sprouts Diced Tri Pepper",
+        "price": "2.25",
+        "category": "Vegetables",
+        "subcategory": "Packaged",
+        "short_description": "Pre-diced trio of peppers for easy meal prep—adds color and crunch.",
+        "weight": "200g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/pack-veg-2-update-1.jpg?v=1587896154"
+        ]
+    },
+    {
+        "id": "pico-de-gallo-200g",
+        "title": "Sprout's Pico De Gallo",
+        "price": "2.10",
+        "category": "Vegetables",
+        "subcategory": "Packaged",
+        "short_description": "Fresh pico de gallo made with chopped tomatoes, onions, and herbs—ready to serve.",
+        "weight": "200g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/pack-veg-1-update-1.jpg?v=1587895966"
+        ]
+    },
+    {
+        "id": "mint-leaf-100g",
+        "title": "Mint Leaf",
+        "price": "1.80",
+        "category": "Vegetables",
+        "subcategory": "Herbs",
+        "short_description": "Fresh mint leaves with bright, cooling flavor—ideal for drinks and recipes.",
+        "weight": "100g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/herb-veg-10-update-1.jpg?v=1587895921"
+        ]
+    },
+    {
+        "id": "wild-arugula-100g",
+        "title": "Wild Arugula",
+        "price": "1.25",
+        "category": "Vegetables",
+        "subcategory": "Leafy Greens",
+        "short_description": "Peppery wild arugula to add a fresh, spicy note to salads and sandwiches.",
+        "weight": "100g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/herb-veg-8-update-1.jpg?v=1587895886"
+        ]
+    },
+    {
+        "id": "organic-girl-baby-arugula-100g",
+        "title": "Organic Girl Baby Arugula",
+        "price": "1.50",
+        "category": "Vegetables",
+        "subcategory": "Leafy Greens",
+        "short_description": "Baby arugula grown organically with tender leaves and peppery flavor.",
+        "weight": "100g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/herb-veg-7-update-1.jpg?v=1587895843"
+        ]
+    },
+    {
+        "id": "basil-50g",
+        "title": "Basil",
+        "price": "0.45",
+        "category": "Vegetables",
+        "subcategory": "Herbs",
+        "short_description": "Fresh basil with aromatic leaves—ideal for pesto and garnishing dishes.",
+        "weight": "50g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/herb-veg-2-update-1.jpg?v=1587895398"
+        ]
+    },
+    {
+        "id": "living-basil-100g",
+        "title": "Living Basil",
+        "price": "1.10",
+        "category": "Vegetables",
+        "subcategory": "Herbs",
+        "short_description": "Potted basil offering fresh leaves for cooking straight from the plant.",
+        "weight": "100g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/herb-veg-5-update-1.jpg?v=1587895714"
+        ]
+    },
+    {
+        "id": "parsley-100g",
+        "title": "Parsley",
+        "price": "0.50",
+        "category": "Vegetables",
+        "subcategory": "Herbs",
+        "short_description": "Fresh parsley with clean, herbaceous flavor—great for finishing dishes.",
+        "weight": "100g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/herb-veg-4-update-1.jpg?v=1587895668"
+        ]
+    },
+    {
+        "id": "tarragon-mint-leaves-100g",
+        "title": "Tarragon Mint Leaves",
+        "price": "1.50",
+        "category": "Vegetables",
+        "subcategory": "Herbs",
+        "short_description": "A mix of tarragon and mint leaves offering aromatic complexity for sauces and salads.",
+        "weight": "100g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/herb-veg-3-update-1.jpg?v=1587895546"
+        ]
+    },
+    {
+        "id": "baby-dill-100g",
+        "title": "Baby Dill",
+        "price": "1.25",
+        "category": "Vegetables",
+        "subcategory": "Herbs",
+        "short_description": "Delicate baby dill with a fresh, anise-like flavor—perfect for fish and dressings.",
+        "weight": "100g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/herb-veg-2-update-1_6885752b-4be0-47ae-88f7-18253913f386.jpg?v=1587895507"
+        ]
+    },
+    {
+        "id": "basil-100g",
+        "title": "Farm Fresh Basil",
+        "price": "1.00",
+        "category": "Vegetables",
+        "subcategory": "Herbs",
+        "short_description": "Farm-fresh basil with aromatic leaves for cooking and garnishing.",
+        "weight": "100g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/herb-veg-1-update-1.jpg?v=1587895178"
+        ]
+    },
+    {
+        "id": "potatoes-1kg",
+        "title": "Potatoes",
+        "price": "0.45",
+        "category": "Vegetables",
+        "subcategory": "Root Vegetables",
+        "short_description": "Versatile potatoes suitable for roasting, mashing, or frying.",
+        "weight": "1kg",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/fresh-veg-10-update-1.jpg?v=1587895151"
+        ]
+    },
+    {
+        "id": "onions-1kg",
+        "title": "Onions",
+        "price": "0.60",
+        "category": "Vegetables",
+        "subcategory": "Root Vegetables",
+        "short_description": "Everyday onions with balanced sweetness—essential for many recipes.",
+        "weight": "1kg",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/fresh-veg-9-update-1.jpg?v=1587895122"
+        ]
+    },
+    {
+        "id": "asparagus-tips-500g",
+        "title": "Asparagus Tips",
+        "price": "1.95",
+        "category": "Vegetables",
+        "subcategory": "Packaged",
+        "short_description": "Tender asparagus tips ready to roast or grill for elegant side dishes.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/fresh-veg-8-update-1.jpg?v=1587973621"
+        ]
+    },
+    {
+        "id": "sweet-corn-250g",
+        "title": "Sweet Corn",
+        "price": "0.98",
+        "category": "Vegetables",
+        "subcategory": "Packaged",
+        "short_description": "Fresh sweet corn with juicy kernels for boiling, grilling, or salads.",
+        "weight": "250g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/fresh-veg-7-update-1.jpg?v=1587895071"
+        ]
+    },
+    {
+        "id": "radish-500g",
+        "title": "Radish",
+        "price": "1.50",
+        "category": "Vegetables",
+        "subcategory": "Root Vegetables",
+        "short_description": "Crisp radishes offering peppery crunch for salads and garnishes.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/fresh-veg-6-update-1.jpg?v=1587895028"
+        ]
+    },
+    {
+        "id": "green-beans-250g",
+        "title": "Green Beans",
+        "price": "1.25",
+        "category": "Vegetables",
+        "subcategory": "Packaged",
+        "short_description": "Fresh green beans with crisp texture—great steamed or sautéed.",
+        "weight": "250g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/fresh-veg-5-update-1.jpg?v=1587893021"
+        ]
+    },
+    {
+        "id": "fennel-500-g",
+        "title": "Fennel",
+        "price": "0.98",
+        "category": "Vegetables",
+        "subcategory": "Packaged",
+        "short_description": "Refreshing fennel with mild licorice notes—great roasted or raw in salads.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/freshveg4updated1-update-1.jpg?v=1587893003"
+        ]
+    },
+    {
+        "id": "carrots-1-kg",
+        "title": "Carrots",
+        "price": "0.59",
+        "category": "Vegetables",
+        "subcategory": "Root Vegetables",
+        "short_description": "Everyday carrots for snacking, cooking, or roasting with natural sweetness.",
+        "weight": "1 Kg",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/fresh-veg-3-update-1.jpg?v=1587892982"
+        ]
+    },
+    {
+        "id": "cherry-tomato-250g",
+        "title": "Cherry tomato",
+        "price": "1.25",
+        "category": "Vegetables",
+        "subcategory": "Packaged",
+        "short_description": "Sweet cherry tomatoes perfect for salads, snacking, or roasting.",
+        "weight": "250g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/fresh-veg-2-update-1.jpg?v=1587892919"
+        ]
+    },
+    {
+        "id": "broccoli-500g",
+        "title": "Broccoli",
+        "price": "1.95",
+        "category": "Vegetables",
+        "subcategory": "Packaged",
+        "short_description": "Fresh broccoli with firm florets—versatile for steaming, roasting, or stir-frying.",
+        "weight": "500g",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0269/5226/9939/products/fresh-veg-1-update-1.jpg?v=1587892666"
+        ]
+    },
+    {
+        "id": "testt-1kg",
+        "title": "testttttt",
+        "price": "20",
+        "category": "Vegetables",
+        "subcategory": "Root Vegetables",
+        "short_description": "dsdsds",
+        "weight": "1kg",
+        "images": [
+            "https://res.cloudinary.com/dxdevg6j7/image/upload/v1763958091/products/kcnklzybkoawfp8ijakv.jpg"
+        ]
+    },
+    {
+        "id": "test-200g",
+        "title": "test",
+        "price": "20",
+        "category": "Fish & Meat",
+        "subcategory": "Sausage",
+        "short_description": "wdaadsds",
+        "weight": "200g",
+        "images": [
+            "https://res.cloudinary.com/dxdevg6j7/image/upload/v1763994986/products/tklzsns5lk5kj3tnpicw.jpg"
+        ]
+    },
+    {
+        "id": "testoooo-400g",
+        "title": "testoooo",
+        "price": "6.5",
+        "category": "Fish & Meat",
+        "subcategory": "Plant-Based",
+        "short_description": "dsadsadsfdfsdfsdfs",
+        "weight": "400g",
+        "images": [
+            "https://res.cloudinary.com/dxdevg6j7/image/upload/v1764034389/products/vgp08za2h6zi3vilekru.jpg"
+        ]
+    },
+    {
+        "id": "anahena-200g",
+        "title": "anahena",
+        "price": "6.5",
+        "category": "Dairy",
+        "subcategory": "Milk",
+        "short_description": "dsadsaaaaaaaaa",
+        "weight": "200g",
+        "images": [
+            "https://res.cloudinary.com/dxdevg6j7/image/upload/v1764034764/products/gbcdlad5kannqzsxlxhq.jpg"
+        ]
+    },
+    {
+        "id": "anahenaaaaaa-200g",
+        "title": "anahenaaaaaa",
+        "price": "750",
+        "category": "Fish & Meat",
+        "subcategory": "Pork",
+        "short_description": "dsadsadasdsadasdsa",
+        "weight": "200g",
+        "images": [
+            "https://res.cloudinary.com/dxdevg6j7/image/upload/v1764035404/products/dsdxb570qnxgrbx6libr.jpg"
+        ]
+    }
+]
