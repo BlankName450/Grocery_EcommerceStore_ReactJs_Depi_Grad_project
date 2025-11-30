@@ -126,7 +126,7 @@ PORT=5000
 Notes:
 - Use a valid Atlas URI with a real database name (e.g., `GroceryApp`).
 - The backend connects with `mongoose.connect(uri, { dbName: process.env.MONGO_DB })`.
-- Store these values in environment variables or Replit Secrets, never in code files.
+- Store these values in environment variables (Vercel, local .env), never in code files.
 
 ## Backend
 

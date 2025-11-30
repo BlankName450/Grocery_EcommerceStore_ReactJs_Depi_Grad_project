@@ -1,7 +1,7 @@
 const { spawn } = require('child_process');
 const path = require('path');
 
-console.log('🚀 Starting Grocery App on Replit...\n');
+console.log('🚀 Starting Grocery App locally...\n');
 
 // Start backend
 console.log('📦 Starting backend server on port 5000...');
@@ -25,8 +25,7 @@ setTimeout(() => {
     env: {
       ...process.env,
       PORT: process.env.FRONTEND_PORT || 3000,
-      BROWSER: 'none', // Don't open browser automatically
-      REACT_APP_API_URL: process.env.REACT_APP_API_URL || ''
+      BROWSER: 'none'
     }
   });
 
@@ -40,7 +39,6 @@ setTimeout(() => {
     }
   });
 
-  // Store frontend reference for cleanup
   process.frontend = frontend;
 }, 2000);
 
