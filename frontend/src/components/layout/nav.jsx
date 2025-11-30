@@ -1,5 +1,4 @@
 import React, { useEffect, useRef, useState } from "react";
-import { Link } from "react-router-dom";
 import "./nav.css";
 import {
   faSearch,
@@ -168,7 +167,7 @@ const navigate = useNavigate();
           </button>
 
           {/* Logo */}
-          <a className="navbar-brand fw-bold me-auto">Title</a>
+          <a href="/" className="navbar-brand fw-bold me-auto">Title</a>
 
           {/* CENTER AREA: Search input (default) or subnav links (scrolled) */}
           <div

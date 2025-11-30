@@ -16,7 +16,7 @@ import LoginPage from "../components/layout/LoginPage";
 import RegisterPage from "../components/layout/RegisterPage";
 import AdminLoginPage from "../components/layout/AdminLoginPage";
 import DeliveryBanner from "../components/layout/DeliverySection";
-import { UserProvider, useUser } from "../context/UserContext";
+import { UserProvider } from "../context/UserContext";
 import { CartProvider } from "../context/CartContext";
 import Footer from "../components/layout/footer";
 // ---------------- HOME PAGE ----------------

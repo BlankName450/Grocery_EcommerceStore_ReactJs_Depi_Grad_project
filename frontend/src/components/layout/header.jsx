@@ -1,4 +1,4 @@
-import React, { Component, Fragment } from "react";
+import React from "react";
 import Button1 from "../common/btn";
 
 const Header1 = () => {

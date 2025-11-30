@@ -15,13 +15,13 @@ const Footer = () => {
           <a href="https://facebook.com/" target="_blank" rel="noopener noreferrer" className="text-secondary me-3">
             <i className="fa-brands fa-facebook fa-lg"></i>
           </a>
-          <a href="#" className="text-secondary me-3">
+          <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-secondary me-3">
             <i className="fa-brands fa-twitter-square fa-lg"></i>
           </a>
-          <a href="#" className="text-secondary me-3">
+          <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-secondary me-3">
             <i className="fa-brands fa-instagram fa-lg"></i>
           </a>
-          <a href="#" className="text-secondary">
+          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-secondary">
             <i className="fa-brands fa-linkedin fa-lg"></i>
           </a>
         </div>

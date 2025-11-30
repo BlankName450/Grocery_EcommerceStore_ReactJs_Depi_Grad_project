@@ -73,7 +73,7 @@ export default function CartPage() {
         throw new Error("Failed to create order");
       }
 
-      const result = await response.json();
+      await response.json();
       alert("Order placed successfully!");
       clearCart();
       setShowCheckout(false);

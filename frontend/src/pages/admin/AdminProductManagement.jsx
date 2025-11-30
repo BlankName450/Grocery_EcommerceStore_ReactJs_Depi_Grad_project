@@ -65,13 +65,11 @@ const categorySubcategories = {
   };
 
   const handleTitleChange = e=>{setFormData(prev=>({...prev,title:e.target.value.replace(/[^a-zA-Z\s'-]/g,'')}))};
-  const handleEditTitleChange = e=>{setEditFormData(prev=>({...prev,title:e.target.value.replace(/[^a-zA-Z\s'-]/g,'')}))};
 
   const handlePriceChange = e=>{setFormData(prev=>({...prev,price:e.target.value.replace(/[^\d.]/g,'')}))};
   const handleEditPriceChange = e=>{setEditFormData(prev=>({...prev,price:e.target.value.replace(/[^\d.]/g,'')}))};
 
   const handleWeightChange = e=>{setFormData(prev=>({...prev,weight:e.target.value.replace(/[^\d.]/g,'')}))};
-  const handleEditWeightChange = e=>{setEditFormData(prev=>({...prev,weight:e.target.value.replace(/[^\d.]/g,'')}))};
 
   const handleWeightUnitChange = e=>{setWeightUnit(e.target.value)};
   const handleEditWeightUnitChange = e=>{setEditWeightUnit(e.target.value)};

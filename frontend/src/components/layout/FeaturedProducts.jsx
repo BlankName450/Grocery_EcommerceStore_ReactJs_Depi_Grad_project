@@ -145,7 +145,7 @@ const res = await fetch(`${API_URL}/api/products`);
                   ) : (
                     <img
                       src="https://via.placeholder.com/160x160?text=No+Image"
-                      alt="No Image"
+                      alt="Product placeholder"
                       className="card-img-top"
                       style={{ height: "160px", objectFit: "contain" }}
                     />
