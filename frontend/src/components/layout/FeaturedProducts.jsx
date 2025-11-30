@@ -20,9 +20,22 @@ export default function FeaturedProducts() {
   const fetchProducts = async () => {
     setLoading(true);
     try {
+      console.log('Fetching products from:', `${API_URL}/api/products`);
+      const res = await fetch(`${API_URL}/api/products`);
       
-const res = await fetch(`${API_URL}/api/products`);
+      if (!res.ok) {
+        throw new Error(`HTTP error! status: ${res.status}`);
+      }
+      
       const data = await res.json();
+      console.log('Products received:', data);
+
+      if (!Array.isArray(data)) {
+        console.error('Products data is not an array:', data);
+        setProducts([]);
+        setVisibleProducts([]);
+        return;
+      }
 
       // shuffle products randomly
       const shuffled = [...data];
@@ -35,6 +48,8 @@ const res = await fetch(`${API_URL}/api/products`);
       setVisibleProducts(shuffled.slice(0, PRODUCTS_PER_PAGE));
     } catch (err) {
       console.error("Fetch error:", err);
+      setProducts([]);
+      setVisibleProducts([]);
     } finally {
       setLoading(false);
     }

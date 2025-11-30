@@ -66,6 +66,16 @@ app.use(async (req, res, next) => {
   next();
 });
 
+// Health check endpoint
+app.get('/api/health', (req, res) => {
+  res.json({ 
+    status: 'ok', 
+    timestamp: new Date().toISOString(),
+    vercel: process.env.VERCEL === '1',
+    mongoUri: process.env.MONGO_URI ? 'Set' : 'Not set'
+  });
+});
+
 app.use('/api/users', userRoutes);
 app.use('/api/orders', orderRoutes);
 app.use('/api/products', productRoutes);

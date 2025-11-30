@@ -26,10 +26,13 @@ const slugify = (value = '') =>
 // Get all products
 router.get('/', async (req, res) => {
   try {
+    console.log('GET /api/products - Fetching products...');
     const products = await Product.find();
+    console.log(`GET /api/products - Found ${products.length} products`);
     res.json(products);
   } catch (error) {
-    res.status(500).json({ message: error.message });
+    console.error('GET /api/products - Error:', error);
+    res.status(500).json({ message: error.message, error: error.toString() });
   }
 });
 // Get single product by MongoDB _id
