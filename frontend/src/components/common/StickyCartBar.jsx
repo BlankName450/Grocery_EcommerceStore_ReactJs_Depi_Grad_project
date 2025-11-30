@@ -42,7 +42,7 @@ export default function StickyCartBar() {
           {totalItems} {totalItems === 1 ? "Item" : "Items"} Added
         </strong>
       </div>
-      <h5 style={{ margin: 0 }}>{total.toFixed(2)} EGP</h5>
+      <h5 style={{ margin: 0 }}>{total.toFixed(2)} $</h5>
     </div>
   );
 }

@@ -106,7 +106,7 @@ const categorySubcategories = {
 
     const weightCombined = `${formData.weight}${weightUnit}`;
     const id = generateId(formData.title, weightCombined);
-    const formattedPrice = formData.price.includes('EGP')?formData.price:formData.price+' EGP';
+    const formattedPrice = formData.price.includes('$')?formData.price:formData.price+' $';
 
     try{
       let saved;
@@ -135,10 +135,10 @@ const categorySubcategories = {
   // ------------------- EDIT PRODUCT -------------------
   const handleEdit = product=>{
     setEditingProduct(product);
-    const priceWithoutEGP = product.price?.replace(/\s*EGP\s*/gi,'').trim()||'';
+    const priceWithout$ = product.price?.replace(/\s*$\s*/gi,'').trim()||'';
     const weightMatch = product.weight?.match(/^(\d+(?:\.\d+)?)(g|kg|ml|L|pcs)$/i);
     setEditWeightUnit(weightMatch?weightMatch[2]:'g');
-    setEditFormData({title:product.title||'', price:priceWithoutEGP, category:product.category||'', subcategory:product.subcategory||'', short_description:product.short_description||'', weight:weightMatch?weightMatch[1]:'', images:product.images||[]});
+    setEditFormData({title:product.title||'', price:priceWithout$, category:product.category||'', subcategory:product.subcategory||'', short_description:product.short_description||'', weight:weightMatch?weightMatch[1]:'', images:product.images||[]});
     setEditImageUrls(product.images?.join(', ')||'');
     setShowEditModal(true);
   };
@@ -207,7 +207,7 @@ const categorySubcategories = {
                     <label>Price *</label>
                     <div className="input-group">
                       <input type="text" className="form-control form-control-sm" value={formData.price} onChange={handlePriceChange} required/>
-                      <input type="text" className="form-control form-control-sm" value="EGP" disabled style={{maxWidth:'60px'}}/>
+                      <input type="text" className="form-control form-control-sm" value="$" disabled style={{maxWidth:'60px'}}/>
                     </div>
                   </div>
                   {/* Weight */}
@@ -271,7 +271,7 @@ const categorySubcategories = {
                   {p.images?.[0] && <img src={p.images[0]} alt={p.title} className="card-img-top" style={{height:'200px',objectFit:'cover'}} onError={e=>e.target.src='https://via.placeholder.com/300x200?text=No+Image'}/>}
                   <div className="card-body d-flex flex-column">
                     <h5 className="card-title">{p.title}</h5>
-                    <p className="text-muted mb-1"><strong>Price:</strong> {p.price} EGP</p>
+                    <p className="text-muted mb-1"><strong>Price:</strong> {p.price} $</p>
                     <p className="text-muted mb-1"><strong>Weight:</strong> {p.weight}</p>
                     <p className="text-muted mb-1"><strong>Category:</strong> {p.category}</p>
                     {p.subcategory && <p className="text-muted mb-1"><strong>Subcategory:</strong> {p.subcategory}</p>}
@@ -309,7 +309,7 @@ const categorySubcategories = {
                       <label>Price *</label>
                       <div className="input-group">
                         <input type="text" className="form-control form-control-sm" value={editFormData.price} onChange={handleEditPriceChange} required/>
-                        <input type="text" className="form-control form-control-sm" value="EGP" disabled style={{maxWidth:'60px'}}/>
+                        <input type="text" className="form-control form-control-sm" value="$" disabled style={{maxWidth:'60px'}}/>
                       </div>
                     </div>
                     <div className="flex-fill">

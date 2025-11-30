@@ -169,7 +169,7 @@ export default function FeaturedProducts() {
                   {/* ---- TEXT ---- */}
                   <div className="card-body">
                     <h5 className="card-title">{p.title}</h5>
-                    <p className="text-success fw-bold">{p.price} EGP</p>
+                    <p className="text-success fw-bold">{p.price} $</p>
                   </div>
                 </div>
               </Link>
@@ -200,7 +200,7 @@ export default function FeaturedProducts() {
           }}
         >
           <span>Added {cart.reduce((s, i) => s + i.qty, 0)} Items</span>
-          <span className="fw-bold">{totalPrice.toFixed(2)} EGP</span>
+          <span className="fw-bold">{totalPrice.toFixed(2)} $</span>
         </div>
       )}
     </>

@@ -10,7 +10,7 @@ export default function CartPage() {
   const [showCheckout, setShowCheckout] = useState(false);
   const [address, setAddress] = useState("");
 
-  const deliveryPrice = 50; // fixed delivery
+  const deliveryPrice = 5; // fixed delivery
   const deliveryTime = "30-45 mins";
 
   // Load product details from DB
@@ -95,7 +95,7 @@ export default function CartPage() {
         marginBottom: 20,
         borderRadius: 6,
       }}>
-        Total Amount: {totalItemsPrice.toFixed(2)} EGP
+        Total Amount: {totalItemsPrice.toFixed(2)} $
       </div>
 
       {items.map((item) => (
@@ -114,10 +114,10 @@ export default function CartPage() {
           />
           <div style={{ flexGrow: 1 }}>
             <p style={{ margin: 0 }}>{item.title}</p>
-            <small>{item.price} EGP / unit</small>
+            <small>{item.price} $ / unit</small>
           </div>
           <p style={{ width: 80, textAlign: "right", fontWeight: "bold" }}>
-            {(item.price * item.qty).toFixed(2)} EGP
+            {(item.price * item.qty).toFixed(2)} $
           </p>
           <div style={{ marginLeft: 20 }}>
             <button onClick={() => updateQty(item._id, -1)} style={btn}>-</button>
@@ -140,7 +140,7 @@ export default function CartPage() {
               {items.map(item => (
                 <div key={item._id} style={{ display: "flex", justifyContent: "space-between", marginBottom: 8 }}>
                   <span>{item.title} x {item.qty}</span>
-                  <span>{(item.price * item.qty).toFixed(2)} EGP</span>
+                  <span>{(item.price * item.qty).toFixed(2)} $</span>
                 </div>
               ))}
             </div>
@@ -153,8 +153,8 @@ export default function CartPage() {
                 onChange={(e) => setAddress(e.target.value)}
                 style={{ width: "100%", padding: 10, marginBottom: 10, borderRadius: 6, border: "1px solid #ccc" }}
               />
-              <p>Delivery: {deliveryPrice} EGP</p>
-              <p>Total: {total.toFixed(2)} EGP</p>
+              <p>Delivery: {deliveryPrice} $</p>
+              <p>Total: {total.toFixed(2)} $</p>
               <p>Estimated delivery: {deliveryTime}</p>
             </div>
 

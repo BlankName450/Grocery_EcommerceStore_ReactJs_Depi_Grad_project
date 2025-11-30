@@ -37,7 +37,7 @@ export default function ProductView() {
         {/* DETAILS */}
         <div className="col-md-6">
           <h2 className="fw-bold">{product.title}</h2>
-          <h3 className="text-success">{product.price} EGP</h3>
+          <h3 className="text-success">{product.price} $</h3>
 
           <p className="mt-4">{product.short_description}</p>
 
