@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import AdminNavbar from '../../components/admin/AdminNavbar';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEdit, faTrash, faPlus, faTimes } from '@fortawesome/free-solid-svg-icons';
+import API_URL from '../../config';
 
 function AdminProductManagement() {
   const [products, setProducts] = useState([]);
@@ -40,7 +41,7 @@ const categorySubcategories = {
     let cancelled = false;
     const loadProducts = async () => {
       try {
-        const res = await fetch('http://localhost:5000/api/products');
+        const res = await fetch(`${API_URL}/api/products`);
         const data = await res.json();
         if (!cancelled) setProducts(Array.isArray(data)?data:[]);
       } catch(err){console.error(err);}
@@ -121,11 +122,11 @@ const categorySubcategories = {
         fd.append('short_description',formData.short_description);
         fd.append('weight',weightCombined);
         selectedFiles.forEach(f=>fd.append('images',f));
-        const res = await fetch('http://localhost:5000/api/products',{method:'POST',body:fd});
+        const res = await fetch(`${API_URL}/api/products`,{method:'POST',body:fd});
         saved = await res.json();
       } else {
         const payload = {id, title:formData.title, price:formattedPrice, category:formData.category, subcategory:formData.subcategory, short_description:formData.short_description, weight:weightCombined, images:formData.images};
-        const res = await fetch('http://localhost:5000/api/products',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)});
+        const res = await fetch(`${API_URL}/api/products`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)});
         saved = await res.json();
       }
       setProducts(prev=>[...prev,saved]);
@@ -157,7 +158,7 @@ const categorySubcategories = {
     editSelectedFiles.forEach(f=>fd.append('images',f));
 
     try{
-      const res = await fetch(`http://localhost:5000/api/products/${encodeURIComponent(editingProduct.id)}`,{method:'PUT',body:fd});
+      const res = await fetch(`${API_URL}/api/products/${encodeURIComponent(editingProduct.id)}`,{method:'PUT',body:fd});
       const updated = await res.json();
       setProducts(prev=>prev.map(p=>p.id===updated.id?updated:p));
       setShowEditModal(false); setEditSelectedFiles([]);
@@ -167,7 +168,7 @@ const categorySubcategories = {
   const handleDelete = async id=>{
     if(!window.confirm('Are you sure?')) return;
     try{
-      const res = await fetch(`http://localhost:5000/api/products/${encodeURIComponent(id)}`,{method:'DELETE'});
+      const res = await fetch(`${API_URL}/api/products/${encodeURIComponent(id)}`,{method:'DELETE'});
       if(res.ok)setProducts(prev=>prev.filter(p=>p.id!==id));
     }catch(err){console.error(err);}
   };

@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useCart } from "../../context/CartContext";
 import { useUser } from "../../context/UserContext";
+import API_URL from "../../config";
 
 export default function CartPage() {
   const { cart, updateQty, clearCart } = useCart(); // global cart
@@ -18,7 +19,7 @@ export default function CartPage() {
       const results = [];
       for (let c of cart) {
         try {
-          const res = await fetch(`http://localhost:5000/api/products/${c._id}`);
+          const res = await fetch(`${API_URL}/api/products/${c._id}`);
           const data = await res.json();
           results.push({ ...data, qty: c.qty });
         } catch (e) {
@@ -59,7 +60,7 @@ export default function CartPage() {
     };
 
     try {
-      const response = await fetch("http://localhost:5000/api/orders", {
+      const response = await fetch(`${API_URL}/api/orders`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

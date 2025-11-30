@@ -1,6 +1,7 @@
 import { useCart } from "../../context/CartContext";
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
+import API_URL from "../../config";
 
 export default function ProductView() {
   const { id } = useParams();
@@ -11,7 +12,7 @@ export default function ProductView() {
 
   useEffect(() => {
     const fetchProduct = async () => {
-      const res = await fetch(`http://localhost:5000/api/products/${id}`);
+      const res = await fetch(`${API_URL}/api/products/${id}`);
       const data = await res.json();
       setProduct(data);
     };

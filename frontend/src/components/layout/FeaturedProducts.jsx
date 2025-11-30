@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCartShopping, faPlus, faMinus } from "@fortawesome/free-solid-svg-icons";
 import { Link } from "react-router-dom";
 import { useCart } from "../../context/CartContext";
+import API_URL from "../../config";
 
 const PRODUCTS_PER_PAGE = 10;
 
@@ -19,7 +20,8 @@ export default function FeaturedProducts() {
   const fetchProducts = async () => {
     setLoading(true);
     try {
-      const res = await fetch("http://localhost:5000/api/products");
+      
+const res = await fetch(`${API_URL}/api/products`);
       const data = await res.json();
 
       // shuffle products randomly
@@ -189,3 +191,4 @@ export default function FeaturedProducts() {
     </>
   );
 }
+console.log("API_URL =", API_URL);

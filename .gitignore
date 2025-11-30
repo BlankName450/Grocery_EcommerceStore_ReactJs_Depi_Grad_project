@@ -27,3 +27,7 @@ backend/.env.local
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Replit files (optional - you may want to keep these)
+# .replit
+# replit.nix

@@ -113,17 +113,20 @@ my-react-app/
 Make sure these are set correctly. Do not commit secrets.
 
 ```
-MONGO_URI=mongodb+srv://admin:<password>@cluster0.trzqxle.mongodb.net/GroceryApp?retryWrites=true&w=majority&appName=Cluster0
+MONGO_URI=mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@YOUR_CLUSTER.mongodb.net/GroceryApp?retryWrites=true&w=majority&appName=Cluster0
 MONGO_DB=GroceryApp
-CLOUDINARY_CLOUD_NAME=<your_cloud_name>
-CLOUDINARY_API_KEY=<your_api_key>
-CLOUDINARY_API_SECRET=<your_api_secret>
+CLOUDINARY_CLOUD_NAME=YOUR_CLOUDINARY_CLOUD_NAME
+CLOUDINARY_API_KEY=YOUR_CLOUDINARY_API_KEY
+CLOUDINARY_API_SECRET=YOUR_CLOUDINARY_API_SECRET
 PORT=5000
 ```
+
+**⚠️ SECURITY WARNING: Replace ALL placeholders with your actual credentials. Never commit real credentials to version control!**
 
 Notes:
 - Use a valid Atlas URI with a real database name (e.g., `GroceryApp`).
 - The backend connects with `mongoose.connect(uri, { dbName: process.env.MONGO_DB })`.
+- Store these values in environment variables or Replit Secrets, never in code files.
 
 ## Backend
 

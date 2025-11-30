@@ -5,6 +5,7 @@ import { faCartShopping, faPlus, faMinus } from "@fortawesome/free-solid-svg-ico
 import { Link } from "react-router-dom";
 import { useCart } from "../../context/CartContext";
 import CustomNav from "../layout/nav";
+import API_URL from "../../config";
 const PRODUCTS_PER_PAGE = 10;
 
 export default function CategoryProductsPage() {
@@ -20,7 +21,7 @@ export default function CategoryProductsPage() {
     const fetchProducts = async () => {
       setLoading(true);
       try {
-        const res = await fetch("http://localhost:5000/api/products");
+        const res = await fetch(`${API_URL}/api/products`);
         const data = await res.json();
 
         // ✅ filter by category
