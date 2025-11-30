@@ -55,12 +55,18 @@ app.use(express.json({ limit: '50mb' }));
 app.use(express.urlencoded({ extended: true, limit: '50mb' }));
 
 // Connect to DB on first request (for serverless/Vercel)
+let dbConnected = false;
 app.use(async (req, res, next) => {
-  if (process.env.VERCEL === '1') {
+  if (process.env.VERCEL === '1' && !dbConnected) {
     try {
+      console.log('Attempting MongoDB connection...');
       await connectDB();
+      dbConnected = true;
+      console.log('MongoDB connected successfully');
     } catch (error) {
       console.error('DB connection error:', error);
+      console.error('Error details:', error.message);
+      // Don't block the request, but log the error
     }
   }
   next();

@@ -27,12 +27,27 @@ const slugify = (value = '') =>
 router.get('/', async (req, res) => {
   try {
     console.log('GET /api/products - Fetching products...');
+    console.log('MONGO_URI set:', !!process.env.MONGO_URI);
+    
+    // Check if mongoose is connected
+    const mongoose = require('mongoose');
+    if (mongoose.connection.readyState !== 1) {
+      console.log('MongoDB not connected, attempting connection...');
+      const connectDB = require('../config/db');
+      await connectDB();
+    }
+    
     const products = await Product.find();
     console.log(`GET /api/products - Found ${products.length} products`);
     res.json(products);
   } catch (error) {
     console.error('GET /api/products - Error:', error);
-    res.status(500).json({ message: error.message, error: error.toString() });
+    console.error('Error stack:', error.stack);
+    res.status(500).json({ 
+      message: error.message, 
+      error: error.toString(),
+      stack: process.env.NODE_ENV === 'development' ? error.stack : undefined
+    });
   }
 });
 // Get single product by MongoDB _id
