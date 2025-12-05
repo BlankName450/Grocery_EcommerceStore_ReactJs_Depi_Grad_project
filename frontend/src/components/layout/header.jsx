@@ -6,7 +6,7 @@ const Header1 = () => {
     <header
       className="position-relative d-flex align-items-center justify-content-end text-white"
       style={{
-        marginTop:"1%",
+        marginTop:"2%",
         marginLeft:"5%",
         marginRight:"5%",
         backgroundImage: `url(${require("../../assets/header-bg.jpg")})`,
@@ -35,11 +35,9 @@ const Header1 = () => {
         className="position-relative"
         style={{zIndex: 2, marginRight: "12%", maxWidth: "500px" }}
       >
-        <h1 className=" mb-3">Title</h1>
+        <h1 className=" mb-3">Pick & Pack</h1>
         <p className="mb-4 fs-5">
-        Stay home & get
-
-your daily need's
+        Fresh groceries delivered to your door
         </p>
         <Button1 title="Order Now" />
       </div>

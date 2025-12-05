@@ -11,6 +11,8 @@ import CategoryMenu from "./category-menu";
 import { useUser } from "../../context/UserContext";
 import { useNavigate } from "react-router-dom";
 import UserMenuBox from "../common/UserMenu";
+import logo from "../../assets/store2.png";
+
 const CustomNav = () => {
   const [scrolled, setScrolled] = useState(false);
   const [searchActive, setSearchActive] = useState(false);
@@ -18,33 +20,6 @@ const CustomNav = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [openCategory, setOpenCategory] = useState(null);
   const searchInputRef = useRef(null);
-
-  // const categories = [
-  //   {
-  //     name: "Vegetables",
-  //     subcategories: ["Leafy Greens", "Root Vegetables", "Herbs"],
-  //   },
-  //   {
-  //     name: "Organic",
-  //     subcategories: ["Seasonal Picks", "Farm Fresh", "Bundles"],
-  //   },
-  //   {
-  //     name: "Snacks & Beverages",
-  //     subcategories: ["Juices", "Chips", "Energy Bars"],
-  //   },
-  //   {
-  //     name: "Fish & Meat",
-  //     subcategories: ["Seafood", "Red Meat", "Poultry"],
-  //   },
-  //   {
-  //     name: "Dairy",
-  //     subcategories: ["Milk", "Cheese", "Yogurt"],
-  //   },
-  //   {
-  //     name: "Bakery & Pastry",
-  //     subcategories: ["Breads", "Cakes", "Croissants"],
-  //   },
-  // ];
 
   const categories = [
   { name: "Vegetables", subcategories: ["Leafy Greens", "Root Vegetables", "Herbs", "Packaged"] },
@@ -166,8 +141,8 @@ const navigate = useNavigate();
             <FontAwesomeIcon icon={faBars} size="lg" />
           </button>
 
-          {/* Logo */}
-          <a href="/" className="navbar-brand fw-bold me-auto">Title</a>
+          
+          <a href="/" className="navbar-brand fw-bold me-auto"><img src={logo}  width={150} height={75} alt="" /></a>
 
           {/* CENTER AREA: Search input (default) or subnav links (scrolled) */}
           <div

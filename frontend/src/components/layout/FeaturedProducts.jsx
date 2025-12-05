@@ -75,7 +75,7 @@ export default function FeaturedProducts() {
 
   return (
     <>
-      <section className="my-5">
+      <section className="my-5 mx-2">
         <h3 className="fw-bold mb-4">Featured Products</h3>
 
         <div className="d-flex flex-wrap justify-content-center gap-2">
